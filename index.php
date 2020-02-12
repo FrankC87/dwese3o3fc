@@ -38,10 +38,10 @@
                 <form action='login.php' method='post'>
                     
                     <div class="form-group">
-                        Usuario: <input type='text' name='username' title='Username' required='required' /><br />
+                        Usuario: <input type='text' name='username' title='Username' required='required' />
                     </div>
                     <div class="form-group">
-                        Contraseña: <input type='password' name='password' title='Password' required='required' /><br /><br />
+                        Contraseña: <input type='password' name='password' title='Password' required='required' />
                     </div>
                         <input class="btn btn-success" type='submit' value='Conectarse' />
 
