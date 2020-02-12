@@ -6,6 +6,6 @@ $username = 'egfmuoqedovyvp';
 $password = 'ab7cfa1ba2eda2f72a3d68cd4972086b39c207b4ef0eea2af22dac35e50b4ed8';
 
 
- $dbh = new PDO('pgsql:host=' . $host . ';dbname=' .$dbname.";charset=utf8", $username, $password);
+ $dbh = new PDO('pgsql:host=' . $host . ';dbname=' .$dbname, $username, $password);
 
 ?>
