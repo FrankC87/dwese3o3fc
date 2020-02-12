@@ -5,14 +5,14 @@
     <meta charset="utf-8" />
     <title>Online 3</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="../css/bootstrap.min.css" />
-    <link rel="stylesheet" href="../css/extrastyle.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/extrastyle.css" />
 </head>
 
 <body>
     <header class="container">
         <div class="row page-header">
-            <div class="col-2 circulo"><img src="../img/logo.svg" alt="logo"></div>
+            <div class="col-2 circulo"><img src="img/logo.svg" alt="logo"></div>
             <div id="texto-header" clas="col-10">
                 <h1><span>D</span>esarrollo <span>W</span>eb en <span>E</span>ntorno <span>S</span>ervidor</h1>
                 <h3>Tarea Online 03</h3>

@@ -10,7 +10,7 @@ CREATE TABLE users (
 );
 
 CREATE TABLE movimientos(
-  id INT auto_increment,
+  id SERIAL,
   nick VARCHAR(100),
   fecha DATE  NOT NULL,
   descripcion VARCHAR(1000) NOT NULL,
